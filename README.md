@@ -36,7 +36,7 @@ Welcome to my GitHub profile!
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ## 🛠️ Also working with:  
-`Active Directory` `VLANs` `Gantt charts` `UTM` `Rocky Linux` `ipcalc`
+`Active Directory` `VLANs` `Gantt` `UTM` `Rocky Linux` `ipcalc`
 
 ## 📫 How to Reach Me
 
